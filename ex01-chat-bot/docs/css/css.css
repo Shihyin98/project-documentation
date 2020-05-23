@@ -1,0 +1,43 @@
+img[alt=echo-bot] {
+    width  : 250px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=company-line-user] {
+    width  : 400px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=company-line-user-info] {
+    width  : 550px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=create-channel] {
+    width  : 800px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=line-calback] {
+    width  : 450px;
+    display: block;
+    margin : 0 auto;
+    border : 1px rgb(0, 0, 0) solid;
+}
+
+img[alt=line-verify] {
+    width  : 300px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=file-structure] {
+    width  : 500px;
+    display: block;
+    margin : 0 auto;
+}
+
